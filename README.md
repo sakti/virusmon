@@ -1,4 +1,0 @@
-virusmon
-========
-
-Viruses Monitoring
