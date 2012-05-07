@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{monitor:0,tabel:0,viru:0,dan:0,dokumentasi:0,isi:0,indek:0,daftar:0,pencarian:0,modul:0,halaman:0},objtypes:{},titles:["Dokumentasi Virus Monitor"],objnames:{},filenames:["index"]})
