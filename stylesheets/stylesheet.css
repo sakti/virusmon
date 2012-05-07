@@ -245,3 +245,7 @@ a {
 .cf {
   zoom:1;
 }
+.logo{
+    float:left;
+    margin-bottom:50px;
+}
