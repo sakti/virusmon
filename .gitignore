@@ -8,6 +8,7 @@ dist
 build
 eggs
 parts
+static
 bin
 var
 sdist

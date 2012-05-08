@@ -1,0 +1,36 @@
+body{
+    background:#fafafa url('../img/bg.png') repeat-x;
+}
+#banner{
+    margin-top:40px;
+    margin-bottom:120px;
+}
+#banner h2{
+    margin-top:100px;
+    color:#60A692;
+}
+
+#head{
+    margin-top:20px;
+}
+#head h1{
+    font-family:Inconsolata, Consolas, 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+    color:#005D61;
+}
+
+.box{
+    background:#CFA352;
+    border-radius:5px;
+    padding:5px;
+    min-height:100px;
+}
+.box h2{
+    color:white;
+    color:#005D61;
+}
+.box p{
+    color:black;
+}
+#footer{
+    margin-top:50px;
+}
