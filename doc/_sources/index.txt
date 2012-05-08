@@ -3,14 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-=========================
-Dokumentasi Virus Monitor
-=========================
+======================================
+Dokumentasi Virus / Malware Monitoring
+======================================
 
 Daftar Isi:
 
 .. toctree::
    :maxdepth: 2
+
+   pengenalan/index
+   penggunaan/index
+   faq/index
+   daftar_kata
+   rilis/index
 
 
 
