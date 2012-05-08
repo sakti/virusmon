@@ -19,9 +19,6 @@ body{
 }
 
 .box{
-    background:#CFA352;
-    border-radius:5px;
-    padding:5px;
     min-height:100px;
 }
 .box h2{
