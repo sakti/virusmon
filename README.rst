@@ -2,7 +2,7 @@
 virusmon
 ========
 
-Computer Virus Monitoring
+Computer Virus / Malware Monitoring
 
 Documentation
 =============
